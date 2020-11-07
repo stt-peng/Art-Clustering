@@ -7,3 +7,5 @@
 Fuente: https://www.kaggle.com/ikarus777/best-artworks-of-all-time
 
 Se pretender realizar la clasificación de algunos de los artistas más importantes mendiante k-means.
+
+### - David Espinosa
